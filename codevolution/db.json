@@ -1,0 +1,14 @@
+{
+	"users": [
+		{
+			"id": 1,
+			"name": "Samco",
+			"role": "Broker"
+		},
+		{
+			"id": 2,
+			"name": "Upstox",
+			"role": "Broker"
+		}
+	]
+}
